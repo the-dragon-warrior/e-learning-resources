@@ -1,0 +1,34 @@
+.heading {
+    text-align: center;
+}
+
+
+.jumbotron {
+    
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background-image: url(../Images/rsz_library_wikimedia.png);
+    background-size: cover;
+    color:floralwhite;
+    height: 610px;
+    font-size: 25px;
+    
+}
+
+.jumbotron h1 {
+    font-size: 8vw;
+}
+
+.jumbotron p {
+    font-size: 3vw;
+    font-family: 'Pacifico', cursive;
+}
+
+
+.navbar-inverse {
+     background-color: #b71703;
+}
+
+.btn {
+    margin: 10px;
+}
